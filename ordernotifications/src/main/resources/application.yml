@@ -1,0 +1,27 @@
+rabbitmq:
+  orderNotificationExchange: OrderNotificationExchange
+  orderNotificationQueue: OrderNotificationQueue
+  orderNotificationRoutingKey: OrderNotificationRoutingKey
+  host: localhost
+  username: guest
+  password: guest
+
+mail:
+  host: smtp.gmail.com
+  port: 465
+  ssl: true
+  auth: true
+  username: abtcoolb7@gmail.com
+  password: unycxpdnslvkhyxh
+  from: melitainfo@gmail.com
+  agentEmail: oluwasakintobi@yahoo.com
+
+server:
+  port: 7003
+
+spring:
+  config:
+    import: configserver:http://localhost:8888
+  application:
+    name: ordernotification
+

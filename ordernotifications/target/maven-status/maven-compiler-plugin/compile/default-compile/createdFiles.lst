@@ -1,0 +1,9 @@
+com/melita/ordernotification/service/EmailService$1.class
+com/melita/ordernotification/listener/NotificationListener.class
+com/melita/ordernotification/OrdernotificationApplication.class
+com/melita/orderapproval/dto/OrderDTO.class
+com/melita/ordernotification/configuration/MailConfigProperties.class
+com/melita/ordernotification/configuration/RabbitMQConfiguration.class
+com/melita/orderapproval/dto/CustomerDTO.class
+com/melita/ordernotification/service/EmailService.class
+com/melita/orderapproval/dto/ProductDTO.class

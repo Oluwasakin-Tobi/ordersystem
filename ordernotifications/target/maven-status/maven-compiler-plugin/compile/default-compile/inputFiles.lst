@@ -1,0 +1,8 @@
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/orderapproval/dto/ProductDTO.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/ordernotification/OrdernotificationApplication.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/orderapproval/dto/OrderDTO.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/ordernotification/service/EmailService.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/ordernotification/configuration/RabbitMQConfiguration.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/ordernotification/listener/NotificationListener.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/orderapproval/dto/CustomerDTO.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordernotifications/src/main/java/com/melita/ordernotification/configuration/MailConfigProperties.java

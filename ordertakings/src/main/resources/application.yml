@@ -1,0 +1,22 @@
+rabbitmq:
+  orderTakingExchange: OrderTakingExchange
+  orderTakingQueue: OrderTakingQueue
+  orderTakingRoutingKey: OrderTakingRoutingKey
+  host: localhost
+  username: guest
+  password: guest
+
+server:
+  port: 7001
+
+product-packages:
+  tvPackages: 90 Channels, 140 Channels
+  mobilePackages: Prepaid, Post-paid
+  internetPackages: 250Mbps, 1Gbps
+  telephonyPackages: Free On net Calls, Unlimited Calls
+
+spring:
+  config:
+    import: configserver:http://localhost:8888
+  application:
+    name: ordertaking

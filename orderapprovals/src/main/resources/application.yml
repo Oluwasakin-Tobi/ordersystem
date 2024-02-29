@@ -1,0 +1,18 @@
+rabbitmq:
+  orderTakingQueue: OrderTakingQueue
+  orderNotificationExchange: OrderNotificationExchange
+  orderNotificationQueue: OrderNotificationQueue
+  orderNotificationRoutingKey: OrderNotificationRoutingKey
+  host: localhost
+  username: guest
+  password: guest
+
+
+server:
+  port: 7002
+
+spring:
+  config:
+    import: configserver:http://localhost:8888
+  application:
+    name: orderapproval

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.melita.ordertaking.OrdertakingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.12 s - in com.melita.ordertaking.OrdertakingApplicationTests

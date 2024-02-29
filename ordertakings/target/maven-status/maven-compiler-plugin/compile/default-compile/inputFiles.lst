@@ -1,0 +1,17 @@
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/controller/OrderTakingController.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/configuration/ProductPackageConfigProperties.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/dto/ProductDTO.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/configuration/RabbitMQConfiguration.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/OrdertakingApplication.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/exception/GlobalExceptionHandler.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/exception/ResourceNotFoundException.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/dto/CustomerDTO.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/dto/OrderDTO.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/configuration/RabbitMQConfigProperties.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/configuration/WebSecurityConfiguration.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/validator/OrderValidator.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/service/OrderTakingServiceImpl.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/configuration/ModelMapperConfiguration.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/service/OrderTakingService.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/exception/OrderBadRequestException.java
+/Users/oluwatobioluwasakin/eclipse-workspace/ordersystem/ordertakings/src/main/java/com/melita/ordertaking/exception/ErrorResponse.java

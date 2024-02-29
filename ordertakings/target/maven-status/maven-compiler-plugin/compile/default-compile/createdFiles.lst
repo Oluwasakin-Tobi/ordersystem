@@ -1,0 +1,17 @@
+com/melita/ordertaking/controller/OrderTakingController.class
+com/melita/ordertaking/service/OrderTakingService.class
+com/melita/ordertaking/service/OrderTakingServiceImpl.class
+com/melita/ordertaking/dto/ProductDTO.class
+com/melita/ordertaking/configuration/RabbitMQConfiguration.class
+com/melita/ordertaking/exception/OrderBadRequestException.class
+com/melita/ordertaking/exception/ResourceNotFoundException.class
+com/melita/ordertaking/validator/OrderValidator.class
+com/melita/ordertaking/dto/CustomerDTO.class
+com/melita/ordertaking/dto/OrderDTO.class
+com/melita/ordertaking/configuration/WebSecurityConfiguration.class
+com/melita/ordertaking/configuration/RabbitMQConfigProperties.class
+com/melita/ordertaking/exception/GlobalExceptionHandler.class
+com/melita/ordertaking/OrdertakingApplication.class
+com/melita/ordertaking/exception/ErrorResponse.class
+com/melita/ordertaking/configuration/ModelMapperConfiguration.class
+com/melita/ordertaking/configuration/ProductPackageConfigProperties.class
